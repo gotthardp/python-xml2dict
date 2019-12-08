@@ -97,6 +97,9 @@ print(json.dumps(xml2dict.parse(xml, schema), indent=4))
 
 ### Use different processing for certain items
 
+If the processing function does not store the value into a dict, only the
+remaining items will be returned.
+
 ```python
 def print_item(obj, tag, val, arg):
     print("ITEM", tag, val)
