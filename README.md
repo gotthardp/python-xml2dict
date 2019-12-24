@@ -1,5 +1,9 @@
 # Flexible XML to dict Converter
 
+```bash
+pip install python-xml2dict
+```
+
 ```python
 import xml2dict
 ```
