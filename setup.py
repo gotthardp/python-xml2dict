@@ -4,12 +4,17 @@ import setuptools
 
 setuptools.setup(
     name='python-xml2dict',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/gotthardp/python-xml2dict.git',
     author='Petr Gotthard',
     author_email='petr.gotthard@centrum.cz',
     description='Flexible XML to dict Converter',
-    install_requires=[],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Development Status :: 4 - Beta"
+    ],
+    py_modules = ['xml2dict']
 )
 
 # end of file

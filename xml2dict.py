@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Copyright (c) 2019 Petr Gotthard <petr.gotthard@centrum.cz>
+# Copyright (c) 2019-2020 Petr Gotthard <petr.gotthard@centrum.cz>
 # All rights reserved.
 # Distributed under the terms of the MIT License. See the LICENSE file.
 #
